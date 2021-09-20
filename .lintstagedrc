@@ -6,7 +6,7 @@
     "prettier --write",
     "eslint --fix"
   ],
-  "**/*.{scss|css|sass|less|graphql|yml|yaml|md|mdx|json}": [
+  "**/*.+(scss|css|sass|less|graphql|yml|yaml|md|mdx|json)": [
     "prettier --write"
   ]
 }
