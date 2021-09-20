@@ -23,8 +23,5 @@
     "lint-staged": "^11.1.2",
     "prettier": "^2.4.1",
     "typescript": "^4.4.3"
-  },
-  "lint-staged": {
-    "*.{js,css,md}": "prettier --write"
   }
 }
