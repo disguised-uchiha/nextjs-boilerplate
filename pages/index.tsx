@@ -1,4 +1,4 @@
 export default function Home() {
-  const kdjf = SS;
+  const kdjf = SSjkhkj;
   return <div>hello</div>;
 }
