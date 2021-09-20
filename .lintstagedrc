@@ -1,0 +1,12 @@
+{
+  "**/*.+(ts|tsx)": [
+    "tsc --pretty --noEmit --skipLibCheck"
+  ],
+  "**/*.+(js|jsx|ts|tsx)": [
+    "prettier --write",
+    "eslint --fix"
+  ],
+  "**/*.{scss|css|sass|less|graphql|yml|yaml|md|mdx|json}": [
+    "prettier --write"
+  ]
+}
